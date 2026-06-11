@@ -201,7 +201,7 @@ Control → Include (Include configuration file)
 >| ISP       | Включён  |
 
 ---
-> [IMPORTANT]
+> [!IMPORTANT]
 ># Скачивание VST-плагинов
 >
 ># ReaPlugs
