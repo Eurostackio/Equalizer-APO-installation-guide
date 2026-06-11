@@ -187,7 +187,8 @@ Control → Include (Include configuration file)
 >| Send MIDI on open/close | Выключено |
 >| Note                    | 0         |
 >| Channel                 | 1         |
->
+><img width="511" height="398" alt="ReaGate" src="https://github.com/user-attachments/assets/098c54c3-2e9e-4251-bc4f-89e9f8c00e8b" />
+> 
 >---
 >
 ># LoudMax
@@ -200,6 +201,7 @@ Control → Include (Include configuration file)
 >| Output    | 1.0 dB   |
 >| Link      | Включён  |
 >| ISP       | Включён  |
+><img width="452" height="320" alt="LoudMax" src="https://github.com/user-attachments/assets/3b7347d3-a449-465e-bab4-abb1bf72891b" />
 
 ---
 > [!IMPORTANT]
