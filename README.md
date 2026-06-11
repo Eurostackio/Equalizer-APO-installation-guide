@@ -5,7 +5,7 @@
 >
 >Скачайте и установите Equalizer APO:
 >
->• Официальный сайт: https://sourceforge.net/projects/equalizerapo/
+>• Надёжный источник: https://sourceforge.net/projects/equalizerapo/
 >
 >Во время установки:
 >
