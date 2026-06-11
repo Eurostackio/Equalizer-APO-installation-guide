@@ -166,39 +166,39 @@ Control → Include (Include configuration file)
 > Блок должен находиться ниже **Selected Devices**, но выше остальных эффектов и плагинов.
 
 ---
-
-# Настройка VST-плагинов
-
-# ReaGate
-
-Рекомендуемые параметры:
-
-| Параметр                | Значение  |
-| ----------------------- | --------- |
-| Pre-open                | 2 ms      |
-| Attack                  | 2 ms      |
-| Hold                    | 80 ms     |
-| Release                 | 100 ms    |
-| Hysteresis              | +2.0 dB   |
-| Lowpass                 | 8000 Hz   |
-| Highpass                | 100 Hz    |
-| RMS Size                | 1 ms      |
-| Send MIDI on open/close | Выключено |
-| Note                    | 0         |
-| Channel                 | 1         |
-
----
-
-# LoudMax
-
-Рекомендуемые параметры:
-
-| Параметр  | Значение |
-| --------- | -------- |
-| Threshold | -13.0 dB |
-| Output    | 1.0 dB   |
-| Link      | Включён  |
-| ISP       | Включён  |
+> [!NOTE]
+># Настройка VST-плагинов
+>
+># ReaGate
+>
+>Рекомендуемые параметры:
+>
+>| Параметр                | Значение  |
+>| ----------------------- | --------- |
+>| Pre-open                | 2 ms      |
+>| Attack                  | 2 ms      |
+>| Hold                    | 80 ms     |
+>| Release                 | 100 ms    |
+>| Hysteresis              | +2.0 dB   |
+>| Lowpass                 | 8000 Hz   |
+>| Highpass                | 100 Hz    |
+>| RMS Size                | 1 ms      |
+>| Send MIDI on open/close | Выключено |
+>| Note                    | 0         |
+>| Channel                 | 1         |
+>
+>---
+>
+># LoudMax
+>
+>Рекомендуемые параметры:
+>
+>| Параметр  | Значение |
+>| --------- | -------- |
+>| Threshold | -13.0 dB |
+>| Output    | 1.0 dB   |
+>| Link      | Включён  |
+>| ISP       | Включён  |
 
 ---
 
