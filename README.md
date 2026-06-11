@@ -201,17 +201,17 @@ Control → Include (Include configuration file)
 >| ISP       | Включён  |
 
 ---
-
-# Скачивание VST-плагинов
-
-# ReaPlugs
-
-https://www.reaper.fm/reaplugs/
-
-Набор бесплатных аудиоплагинов от Cockos, включающий ReaGate.
-
-# LoudMax
-
-https://loudmax.blogspot.com/
-
-Бесплатный лимитер для контроля громкости микрофона.
+> [IMPORTANT]
+># Скачивание VST-плагинов
+>
+># ReaPlugs
+>
+>https://www.reaper.fm/reaplugs/
+>
+>Набор бесплатных аудиоплагинов от Cockos, включающий ReaGate.
+>
+># LoudMax
+>
+>https://loudmax.blogspot.com/
+>
+>Бесплатный лимитер для контроля громкости микрофона.
