@@ -82,6 +82,7 @@
 ```text
 1024
 ```
+<img width="994" height="254" alt="Resolution" src="https://github.com/user-attachments/assets/e92d9a50-681e-4fcf-8aa5-a3008905fc87" />
 
 ---
 > [!TIP]
