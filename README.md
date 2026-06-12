@@ -243,7 +243,7 @@ Control → Include (Include configuration file)
 | Эхоподавление | Выключено |
 | Автоматическая регулировка усиления | Выключено |
 | Расширенная активация по голосу | Выключено |
-| Отключить системную обработку входящего звука | Включено |
+| Отключить системную обработку входящего звука | Выключено |
 
 <img width="729" height="1153" alt="Discord voice settings" src="https://github.com/user-attachments/assets/df840704-6358-4dbc-a42f-c2fbac2fa385" />
 
