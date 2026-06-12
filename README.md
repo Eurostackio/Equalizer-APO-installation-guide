@@ -67,6 +67,9 @@
 >1. Выделите нужный элемент.
 >2. Нажмите кнопку **Remove** (красный минус).
 >3. Удалите все стандартные элементы.
+><img width="395" height="80" alt="Delete" src="https://github.com/user-attachments/assets/10f1ae0f-bb12-47f0-b1d3-5475de910e7a" />
+><img width="282" height="94" alt="Remove" src="https://github.com/user-attachments/assets/a8ad8a16-68a9-49b3-b6ce-bf320e2eb0ff" />
+
 
 ---
 
