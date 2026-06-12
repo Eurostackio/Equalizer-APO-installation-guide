@@ -207,7 +207,7 @@ Control → Include (Include configuration file)
 >| Параметр  | Значение |
 >| --------- | -------- |
 >| Threshold | -13.0 dB |
->| Output    | 1.0 dB   |
+>| Output    | -1.0 dB  |
 >| Link      | Включён  |
 >| ISP       | Включён  |
 ><img width="452" height="320" alt="LoudMax" src="https://github.com/user-attachments/assets/3b7347d3-a449-465e-bab4-abb1bf72891b" />
